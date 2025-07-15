@@ -1,0 +1,21 @@
+make,model,year,price,mileage,fuel_type,transmission
+Toyota,Camry,2020,24000,35000,Gasoline,Automatic
+Honda,Civic,2019,22000,42000,Gasoline,Manual
+Ford,Focus,2018,18000,55000,Gasoline,Automatic
+BMW,320i,2021,35000,15000,Gasoline,Automatic
+Tesla,Model 3,2022,45000,8000,Electric,Automatic
+Nissan,Altima,2019,20000,38000,Gasoline,CVT
+Chevrolet,Malibu,2020,23000,28000,Gasoline,Automatic
+Audi,A4,2021,38000,12000,Gasoline,Automatic
+Hyundai,Elantra,2018,16000,48000,Gasoline,Manual
+Volkswagen,Jetta,2019,21000,35000,Gasoline,Automatic
+Toyota,Prius,2020,26000,25000,Hybrid,CVT
+Honda,Accord,2021,28000,18000,Gasoline,Automatic
+Ford,Mustang,2019,32000,22000,Gasoline,Manual
+Mercedes,C-Class,2022,42000,5000,Gasoline,Automatic
+Subaru,Outback,2020,29000,30000,Gasoline,CVT
+Mazda,CX-5,2021,31000,15000,Gasoline,Automatic
+Kia,Forte,2018,15000,52000,Gasoline,Manual
+Lexus,ES,2021,40000,10000,Gasoline,Automatic
+Infiniti,Q50,2019,27000,33000,Gasoline,Automatic
+Acura,TLX,2020,32000,20000,Gasoline,Automatic
