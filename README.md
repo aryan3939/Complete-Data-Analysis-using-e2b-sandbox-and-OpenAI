@@ -349,4 +349,3 @@ python main.py
 
 ---
 
-_Built with ❤️ using E2B Code Interpreter, OpenAI GPT-4, and intelligent automation_
